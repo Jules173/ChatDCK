@@ -32,7 +32,7 @@ public class Server
 
 				//clé : 5f4ky478l1qs35d178ksd5
 				/*
-				 * Le serveur n'accepte aucun client en dehors de ce utilisant notre application
+				 * Le serveur n'accepte aucun client en dehors de ceux utilisant notre application
 				 * dédier gràce à une clé d'authentification.
 				*/
 				if (!in.readLine().equals("5f4ky478l1qs35d178ksd5"))
